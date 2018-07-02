@@ -26,4 +26,4 @@ You can also view it on a [web browser][1] if you have a internet connection.
 -> papers explaining how its not that naive a assumption
 -> non parametric models
 
-[1] : http://nbviewer.jupyter.org/github/anantham/NaiveBayesKS/blob/master/Naive%20Bayes%20-%20Model.ipynb
+[1]: http://nbviewer.jupyter.org/github/anantham/NaiveBayesKS/blob/master/Naive%20Bayes%20-%20Model.ipynb
